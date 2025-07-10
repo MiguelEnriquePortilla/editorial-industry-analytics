@@ -1,0 +1,6 @@
+user_segment,user_count,avg_books_rated,avg_reviews_written,engagement_ratio_percent,user_value_score,pyramid_level,segment_color,icon_size
+Power Users,9,54.3,24.3,45.8,100,5,#FFD700,50
+Active Users,151,39.6,17.1,43.0,75,4,#FF6B6B,40
+Regular Users,300,14.2,3.6,25.0,45,3,#4ECDC4,30
+Occasional Users,400,7.8,1.2,15.0,25,2,#95E1D3,20
+Novice Users,240,2.1,0.3,8.0,10,1,#F38181,15
