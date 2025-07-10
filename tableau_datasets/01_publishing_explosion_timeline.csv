@@ -1,0 +1,8 @@
+era,year_range,books_count,books_per_year,growth_factor,era_icon_size,color_intensity,timeline_position
+Pre-Digital,1952-2000,181,3.8,1.0,10,0.3,1
+Digital Transition,2000-2005,402,80.4,21.2,25,0.6,2
+Digital Boom,2005-2010,251,50.2,13.2,20,0.8,3
+Digital Maturity,2010-2015,125,25.0,6.6,15,0.9,4
+Digital Consolidation,2015-2020,41,8.2,2.2,12,1.0,5
+Total Pre-2000,1952-2000,181,3.8,1.0,10,0.3,6
+Total Post-2000,2000-2020,819,41.0,10.8,35,1.0,7
