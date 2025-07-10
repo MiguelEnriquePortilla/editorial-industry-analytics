@@ -1,0 +1,13 @@
+publisher,efficiency_score,total_books,hits_count,avg_rating,strategy_type,building_height,tier,tier_color
+Vertigo,90.0,10,9,4.44,Premium Specialist,100,Premium Elite,#FFD700
+Simon Pulse,88.9,9,8,4.19,YA Specialist,95,Premium Elite,#FFD700
+Delta,84.6,13,11,4.10,Perfect Balance,90,Premium Elite,#FFD700
+HarperTorch,80.0,10,8,4.28,Romance Focus,85,High Quality,#FF6B6B
+Berkley,70.6,17,12,4.02,Quality Focus,75,High Quality,#FF6B6B
+Modern Library,66.7,9,6,3.86,Classic Reprint,70,High Quality,#FF6B6B
+Ballantine Books,63.2,19,12,3.76,Balanced Approach,65,Standard,#4ECDC4
+Dell Publishing,62.5,8,5,4.03,Mystery Focus,60,Standard,#4ECDC4
+Signet,60.0,10,6,3.91,Popular Fiction,55,Standard,#4ECDC4
+Pocket Books,60.0,10,6,3.89,Commercial Focus,55,Standard,#4ECDC4
+Penguin Books,35.7,42,15,3.65,Volume Strategy,40,Volume Focus,#95E1D3
+Random House,34.2,38,13,3.72,Volume Strategy,35,Volume Focus,#95E1D3
